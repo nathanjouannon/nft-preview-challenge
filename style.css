@@ -165,7 +165,7 @@ a:hover {
 
 /* Desktop version  */
 
-@media screen and (min-width: 524px) {
+@media screen and (min-width: 530px) {
     .container {
         width: 25%;
         margin: 60px auto;
